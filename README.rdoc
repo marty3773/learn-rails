@@ -1,4 +1,7 @@
 == README
 
 Getting going on Ruby on Rails 5-3-2016 first commit to git hub
+
+another edit test
+
 test of edit
